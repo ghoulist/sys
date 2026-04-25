@@ -47,6 +47,7 @@ in {
     hyprpolkitagent = i ./services/hyprpolkitagent.nix;
     mpd-discord-rpc = i ./services/mpd-discord-rpc.nix;
     hyprlauncher    = i ./services/hyprlauncher.nix;
+    mpdscribble     = i ./services/mpdscribble.nix;
     mpd-mpris       = i ./services/mpd-mpris.nix;
     syncthing       = i ./services/syncthing.nix;
     hyprpaper       = i ./services/hyprpaper.nix;
