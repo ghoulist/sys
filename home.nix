@@ -67,7 +67,6 @@ in {
     nushell     = i ./programs/nushell.nix;
     direnv      = i ./programs/direnv.nix;
     nixvim      = i ./programs/nixvim/nixvim.nix;
-    lutris      = i ./programs/lutris.nix;
     ledger      = i ./programs/ledger.nix;
     emacs       = i ./programs/emacs/emacs.nix;
     eza         = i ./programs/eza.nix;
