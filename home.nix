@@ -25,7 +25,6 @@ in {
     alsa-utils
     iosevka
     ripgrep
-    spotify
     unzip
     slurp
     grim
