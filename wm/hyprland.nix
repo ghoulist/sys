@@ -8,9 +8,7 @@ with pkgs.lib;
   portalPackage   = global.hyprlandPkgs.xdg-desktop-portal-hyprland;
   package         = global.hyprlandPkgs.hyprland;
 
-  plugins         = [
-    global.hyprlandPlugins.borders-plus-plus
-  ];
+  plugins         = [ ];
 
   settings        = {
     animations.enabled = false; # no, thanks
